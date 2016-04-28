@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Scotty Doesn't Code. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 FOUNDATION_EXPORT CGFloat const SDCAlertViewWidth;
 
